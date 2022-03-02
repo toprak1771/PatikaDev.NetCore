@@ -28,6 +28,7 @@ namespace PatikaMethods
             example.WriteScreen(Convert.ToString(result2));
             Console.WriteLine(a);
             Console.WriteLine(b);
+
         }
     }
 

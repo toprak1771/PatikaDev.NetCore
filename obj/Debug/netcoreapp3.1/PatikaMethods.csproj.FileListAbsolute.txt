@@ -1,0 +1,13 @@
+C:\Users\topra\source\repos\Patika.dev\bin\Debug\netcoreapp3.1\PatikaMethods.exe
+C:\Users\topra\source\repos\Patika.dev\bin\Debug\netcoreapp3.1\PatikaMethods.deps.json
+C:\Users\topra\source\repos\Patika.dev\bin\Debug\netcoreapp3.1\PatikaMethods.runtimeconfig.json
+C:\Users\topra\source\repos\Patika.dev\bin\Debug\netcoreapp3.1\PatikaMethods.runtimeconfig.dev.json
+C:\Users\topra\source\repos\Patika.dev\bin\Debug\netcoreapp3.1\PatikaMethods.dll
+C:\Users\topra\source\repos\Patika.dev\bin\Debug\netcoreapp3.1\PatikaMethods.pdb
+C:\Users\topra\source\repos\Patika.dev\obj\Debug\netcoreapp3.1\PatikaMethods.csproj.AssemblyReference.cache
+C:\Users\topra\source\repos\Patika.dev\obj\Debug\netcoreapp3.1\PatikaMethods.AssemblyInfoInputs.cache
+C:\Users\topra\source\repos\Patika.dev\obj\Debug\netcoreapp3.1\PatikaMethods.AssemblyInfo.cs
+C:\Users\topra\source\repos\Patika.dev\obj\Debug\netcoreapp3.1\PatikaMethods.csproj.CoreCompileInputs.cache
+C:\Users\topra\source\repos\Patika.dev\obj\Debug\netcoreapp3.1\PatikaMethods.dll
+C:\Users\topra\source\repos\Patika.dev\obj\Debug\netcoreapp3.1\PatikaMethods.pdb
+C:\Users\topra\source\repos\Patika.dev\obj\Debug\netcoreapp3.1\PatikaMethods.genruntimeconfig.cache
