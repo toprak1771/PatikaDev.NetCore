@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\topra\\source\\repos\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj": {}
+    "C:\\Users\\topra\\source\\repos\\Patika.dev\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\topra\\source\\repos\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj": {
+    "C:\\Users\\topra\\source\\repos\\Patika.dev\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\topra\\source\\repos\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj",
+        "projectUniqueName": "C:\\Users\\topra\\source\\repos\\Patika.dev\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj",
         "projectName": "PatikadevExtensionMetotlar",
-        "projectPath": "C:\\Users\\topra\\source\\repos\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj",
+        "projectPath": "C:\\Users\\topra\\source\\repos\\Patika.dev\\PatikadevExtensionMetotlar\\PatikadevExtensionMetotlar.csproj",
         "packagesPath": "C:\\Users\\topra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\topra\\source\\repos\\PatikadevExtensionMetotlar\\obj\\",
+        "outputPath": "C:\\Users\\topra\\source\\repos\\Patika.dev\\PatikadevExtensionMetotlar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
