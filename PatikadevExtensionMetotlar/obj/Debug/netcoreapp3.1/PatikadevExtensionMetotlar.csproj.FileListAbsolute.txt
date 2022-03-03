@@ -1,0 +1,13 @@
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\bin\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.exe
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\bin\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.deps.json
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\bin\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.runtimeconfig.json
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\bin\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.runtimeconfig.dev.json
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\bin\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.dll
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\bin\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.pdb
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\obj\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\obj\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\obj\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.AssemblyInfo.cs
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\obj\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\obj\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.dll
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\obj\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.pdb
+C:\Users\topra\source\repos\PatikadevExtensionMetotlar\obj\Debug\netcoreapp3.1\PatikadevExtensionMetotlar.genruntimeconfig.cache
